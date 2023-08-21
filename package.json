@@ -1,5 +1,5 @@
 {
-  "name": "webp-wizard",
+  "name": "@huseyin-ensari/webp-wizard",
   "version": "1.0.0",
   "description": "minimaze your images with webp format",
   "main": "main.js",
@@ -17,6 +17,8 @@
   "bin": {
     "ww": "main.js"
   },
+  "repository": "https://github.com/huseyin-ensari/webp-wizard",
+  "homepage": "https://github.com/huseyin-ensari/webp-wizard",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
