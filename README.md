@@ -14,6 +14,13 @@ It reduces the file size by up to 95%.
 npm install -g webp-wizard
 ```
 
+or
+
+```bash
+sudo npm install -g webp-wizard
+```
+
+
 ## Usage
 ```bash
 ww <image-path> 
