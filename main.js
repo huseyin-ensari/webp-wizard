@@ -6,7 +6,6 @@ const fs = require('fs');
 const colors = require('colors');
 const { changeFile, findAndChangeFiles } = require("./src");
 
-console.log("");
 const program = new Command();
 
 console.log(colors.red(figlet.textSync("wW")), colors.underline.red("Webp Wizard"), "\n");

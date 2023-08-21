@@ -1,5 +1,5 @@
 {
-  "name": "@huseyin-ensari/webp-wizard",
+  "name": "webp-wizard",
   "version": "1.0.0",
   "description": "minimaze your images with webp format",
   "main": "main.js",
