@@ -13,7 +13,7 @@ console.log(colors.red(figlet.textSync("wW")), colors.underline.red("Webp Wizard
 program
     .version("1.0.0")
     .description("Minimaze your images with webp format")
-    .argument('<imagePath>', 'Path to the image file')
+    .argument('<imagePath | imageFolder>', 'Path to the image file or folder')
     .action((path) => {
         fs.stat(path, async (err, stats) => {
             if (err) {
