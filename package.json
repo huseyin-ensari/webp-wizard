@@ -1,0 +1,27 @@
+{
+  "name": "webp-wizard",
+  "version": "1.0.0",
+  "description": "minimaze your images with webp format",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "help": "node ./main.js -h"
+  },
+  "keywords": [
+    "webp",
+    "image",
+    "minimaze",
+    "wizard"
+  ],
+  "author": "huseyin ensari github.com/huseyin-ensari",
+  "bin": {
+    "ww": "main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "sharp": "^0.32.5"
+  }
+}

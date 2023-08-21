@@ -1,0 +1,7 @@
+node_modules/
+testData/
+*.png
+*.jpg
+*.webp
+todo.md
+*.DS_Store
