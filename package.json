@@ -1,6 +1,6 @@
 {
   "name": "webp-wizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimaze your images with webp format",
   "main": "main.js",
   "scripts": {
